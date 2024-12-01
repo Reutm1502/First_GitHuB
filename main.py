@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Reut & Noa are your Queens!!!!!')
+    print_hi('Reut & Noa are your Queens!!!!! hotamar lozer')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
